@@ -1,7 +1,9 @@
 # mypkg
+
 ![test](https://github.com/KentaTsukino/mypkg/actions/workflows/test.yml/badge.svg)
+
 # 本リポジトリの概要
-このリポジトリは千葉工業大学先進工学部未来ロボティクス学科4Semesterの講義で扱われているROS2のパッケージです。
+このリポジトリは千葉工業大学先進工学部未来ロボテhttps://ryuichiueda.github.io/my_slides/robosys_2022/lesson10.html#/6ィクス学科4Semesterの講義で扱われているROS2のパッケージです。
 ## 本リポジトリの使用方法
 - terminalで以下のものを実行
  ```
